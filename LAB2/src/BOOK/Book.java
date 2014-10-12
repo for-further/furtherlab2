@@ -1,4 +1,5 @@
 package BOOK;
+//This code is useless  QAQ
 public class Book {
 	String ISBN;
 	String Title;
