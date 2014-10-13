@@ -16,7 +16,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class QueryAction {
 	/**
-	 * Show Details!
+	 * Show Details!!
 	 */
 	private static final long serialVersionUID = 1L;
 	private String name;

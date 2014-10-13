@@ -16,7 +16,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class DeleteAction {
 	/**
-	 * Delete a Book!
+	 * Delete a Book!!
 	 */
 	private static final long serialVersionUID = 1L;
 	private String name;
