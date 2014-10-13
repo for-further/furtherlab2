@@ -1,5 +1,9 @@
 package BOOK;
+<<<<<<< HEAD
 import java.io.*;
+=======
+//This code is useless  QAQ
+>>>>>>> C4
 public class Book {
 	String ISBN;
 	String Title;
